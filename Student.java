@@ -1,5 +1,6 @@
 public class balls {
     public static void main(String []args) {
-        System.out.println("Hello balls");
+        private int balls = 0;
+        System.out.println("Hello " + String(balls));
      }
 }
